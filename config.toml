@@ -1,0 +1,10 @@
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+baseurl       = "https://gitlab.dindi.net"
+title         = "Hugo Blog Template for GitLab Pages"
+canonifyurls  = true
+theme         = "Lanyon"
+
+[indexes]
+  category  = "categories"
